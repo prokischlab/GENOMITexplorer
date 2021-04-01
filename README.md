@@ -1,1 +1,1 @@
-# mitoWES2000
+# GENOMITexplorer
