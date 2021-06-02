@@ -3,11 +3,7 @@ title: "GENOMITexplorer"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-**GENOMITexplorer** is an open access online resource created as part of the study "Diagnosing pediatric mitochondrial disease: lessons from 2,000 exomes" by Stenton et al., (in submission).
+**<a href="https://prokischlab.github.io/GENOMITexplorer/" target="_blank">GENOMITexplorer</a>** is an open access online resource created as part of the study "Diagnosing pediatric mitochondrial disease: lessons from 2,000 exomes" by Stenton et al., (in submission).
 
 The resource contains:
 
