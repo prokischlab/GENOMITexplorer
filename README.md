@@ -7,11 +7,11 @@ output: html_document
 
 The resource contains:
 
-**1) Information on the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_patient_variants_study_variants.html" target="_blank">variant-level</a> for all “pathogenic” and “likely pathogenic” variants reported in the study.**
+**1) Information on the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_variant_information_study_variants.html" target="_blank">variant-level</a> for all “pathogenic” and “likely pathogenic” variants reported in the study.**
 
 Variants are listed with their respective predicted function, heteroplasmy level (for mitochondrial DNA variants), allele frequency (according to gnomAD), CADD score, SIFT score, ACMG classification, functional evidence, and phenotype SS score.
 
-**2) Information on HPO-gene associations, on the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_patient_HPO_study_plus_registry_and_literature_HPO.html" target="_blank">patient-level</a> and <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_patient_HPO_study_plus_registry_and_literature_HPO.html" target="_blank">gene-level</a>.**
+**2) Information on HPO-gene associations, on the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_HPO_associations_patient_level.html" target="_blank">patient-level</a> and <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_HPO_associations_gene_level.html" target="_blank">gene-level</a>.**
 
 HPO-gene association are provided for all patients included in the study in addition to pediatric molecularly diagnosed patients from mitochondrial disease registries (mitoNET and Besta) and from literature reports.
 
