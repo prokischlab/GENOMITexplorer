@@ -17,6 +17,6 @@ HPO-gene association are provided for all patients included in the study in addi
 
 The most discriminating phenotypes by molecular diagnosis can be explored for all genes with ≥5 reported patients carrying “pathogenic” and “likely pathogenic” variants.
 
-**All clinicians and researchers contributing data to, or involved in the creation of, GENOMITexplorer are acknowledged <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_contributors_contributors.html" target="_blank">here</a>.**
+**All clinicians and researchers contributing data to, or involved in the creation of, GENOMITexplorer are acknowledged <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_all_contributors_contributors.html" target="_blank">here</a>.**
 
 
