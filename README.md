@@ -21,4 +21,8 @@ HPO-gene association are provided for all patients included in the study in addi
 
 The most discriminating phenotypes by molecular diagnosis can be explored for all genes with ≥5 reported patients carrying “pathogenic” and “likely pathogenic” variants.
 
+**3) Visualisation of the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_WES_study_study_overview.html" target="_blank">study results</a>.**
+
+Depiction of the study overview, molecular genetic diagnoses, mitochondrial disease gene coverage, and clinical presentation of the patients.
+
 
