@@ -13,7 +13,7 @@ The resource contains:
 
 **1) Information on the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_variant_information_study_variants.html" target="_blank">variant-level</a> for all “pathogenic” and “likely pathogenic” variants reported in the study.**
 
-Variants are listed with their respective predicted function, heteroplasmy level (for mitochondrial DNA variants), allele frequency (according to gnomAD), CADD score, SIFT score, ACMG classification, functional evidence, and phenotype SS score.
+Variants are listed with their respective predicted function, heteroplasmy level (for mitochondrial DNA variants), allele frequency (according to gnomAD), CADD score, SIFT score, ACMG classification, functional evidence, and phenotype semantic similarity score.
 
 **2) Information on HPO-gene associations, on the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_HPO_associations_patient_level.html" target="_blank">patient-level</a> and <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_HPO_associations_gene_level.html" target="_blank">gene-level</a>.**
 
@@ -21,7 +21,7 @@ HPO-gene association are provided for all patients included in the study in addi
 
 The most discriminating phenotypes by molecular diagnosis can be explored for all genes with ≥5 reported patients carrying “pathogenic” and “likely pathogenic” variants.
 
-**3) Visualisation of the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_WES_study_study_overview.html" target="_blank">study results</a>.**
+**3) Visualization of the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_WES_study_study_overview.html" target="_blank">study results</a>.**
 
 Depiction of the study overview, molecular genetic diagnoses, mitochondrial disease gene coverage, and clinical presentation of the patients.
 
