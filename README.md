@@ -25,6 +25,7 @@ The most discriminating phenotypes by molecular diagnosis can be explored for al
 
 Depiction of the study overview, molecular genetic diagnoses, mitochondrial disease gene coverage, and clinical presentation of the patients.
 
-_Contact: sarah.stenton@helmholtz-muenchen.de or prokisch@helmholtz-muenchen.de._
+_Contact: prokisch@helmholtz-muenchen.de._
+
 
 
