@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>exomes1000</title>
+  <title>GENOMITexplorer</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="lib/theme/bootstrap.min.css">
@@ -133,47 +133,32 @@
         <li><a href="javascript:navigate('readme.html');">Readme</a></li>
         <li><a href="javascript:navigate('dep.svg');">Dependency</a></li>
         -->
-	<li class="dropdown">
+  <li class="dropdown">
+   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">variant_information<span class="caret"></span></a>
+   <ul class="dropdown-menu multi-level" role="menu">
+<li><a href="javascript:navigate('Scripts_variant_information_study_variants.html');">study_variants.R</a></li>
+   </ul>
+</li>
+<li class="dropdown">
    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HPO_associations<span class="caret"></span></a>
    <ul class="dropdown-menu multi-level" role="menu">
-<li class="dropdown-submenu">
-    <a tabindex="-1" href="#">gene_level</a>
-    <ul class="dropdown-menu">
-    <li><a href="javascript:navigate('Scripts_HPO_associations_gene_level_A_to_E.html');">A_to_E.R</a></li>
-<li><a href="javascript:navigate('Scripts_HPO_associations_gene_level_F_to_J.html');">F_to_J.R</a></li>
-<li><a href="javascript:navigate('Scripts_HPO_associations_gene_level_K_to_O.html');">K_to_O.R</a></li>
-<li><a href="javascript:navigate('Scripts_HPO_associations_gene_level_P_to_T.html');">P_to_T.R</a></li>
-<li><a href="javascript:navigate('Scripts_HPO_associations_gene_level_U_to_Z.html');">U_to_Z.R</a></li>
-<li><a href="javascript:navigate('Scripts_HPO_associations_gene_level_all_genes_summary.html');">all_genes_summary.R</a></li>
-    </ul>
-</li>
-<li class="dropdown-submenu">
-    <a tabindex="-1" href="#">patient_level</a>
-    <ul class="dropdown-menu">
-    <li><a href="javascript:navigate('Scripts_HPO_associations_patient_level_patient_level.html');">patient_level.R</a></li>
-    </ul>
-</li>
+<li><a href="javascript:navigate('Scripts_HPO_associations_patient_level.html');">patient_level.R</a></li>
+<li><a href="javascript:navigate('Scripts_HPO_associations_gene_level.html');">gene_level.R</a></li>
    </ul>
 </li>
 <li class="dropdown">
    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">WES_study<span class="caret"></span></a>
    <ul class="dropdown-menu multi-level" role="menu">
+<li><a href="javascript:navigate('Scripts_WES_study_study_overview.html');">study_overview.R</a></li>
+<li><a href="javascript:navigate('Scripts_WES_study_genetic_diagnoses.html');">genetic_diagnoses.R</a></li>
 <li><a href="javascript:navigate('Scripts_WES_study_MD_genes.html');">MD_genes.R</a></li>
 <li><a href="javascript:navigate('Scripts_WES_study_clinical_presentation.html');">clinical_presentation.R</a></li>
-<li><a href="javascript:navigate('Scripts_WES_study_genetic_diagnoses.html');">genetic_diagnoses.R</a></li>
-<li><a href="javascript:navigate('Scripts_WES_study_study_overview.html');">study_overview.R</a></li>
    </ul>
 </li>
 <li class="dropdown">
    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">all_contributors<span class="caret"></span></a>
    <ul class="dropdown-menu multi-level" role="menu">
 <li><a href="javascript:navigate('Scripts_all_contributors_contributors.html');">contributors.R</a></li>
-   </ul>
-</li>
-<li class="dropdown">
-   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">genetic_variants<span class="caret"></span></a>
-   <ul class="dropdown-menu multi-level" role="menu">
-<li><a href="javascript:navigate('Scripts_genetic_variants_disease_causing_variants.html');">disease_causing_variants.R</a></li>
    </ul>
 </li>
 
@@ -203,25 +188,6 @@
   
 <div class="container-fluid text-left" >    
   <div class="row content">
-    <div class="col-sm-2 sidenav" >
-      <p><b>Recent Files</b></p>
-      <p><a href="javascript:navigate('Scripts_HPO_associations_gene_level_K_to_O.html');" >Scripts HPO associations gene level K to O</a></p>
-<p><a href="javascript:navigate('Scripts_HPO_associations_gene_level_P_to_T.html');" >Scripts HPO associations gene level P to T</a></p>
-<p><a href="javascript:navigate('Scripts_HPO_associations_gene_level_A_to_E.html');" >Scripts HPO associations gene level A to E</a></p>
-<p><a href="javascript:navigate('Scripts_HPO_associations_gene_level_F_to_J.html');" >Scripts HPO associations gene level F to J</a></p>
-<p><a href="javascript:navigate('Scripts_WES_study_clinical_presentation.html');" >Scripts WES study clinical presentation</a></p>
-<p><a href="javascript:navigate('Scripts_HPO_associations_gene_level_U_to_Z.html');" >Scripts HPO associations gene level U to Z</a></p>
-<p><a href="javascript:navigate('Scripts_HPO_associations_gene_level_all_genes_summary.html');" >Scripts HPO associations gene level all genes summary</a></p>
-<p><a href="javascript:navigate('Scripts_WES_study_genetic_diagnoses.html');" >Scripts WES study genetic diagnoses</a></p>
-<p><a href="javascript:navigate('Scripts_WES_study_MD_genes.html');" >Scripts WES study MD genes</a></p>
-<p><a href="javascript:navigate('Scripts_WES_study_study_overview.html');" >Scripts WES study study overview</a></p>
-
-      <!--
-      <p><a href="#">Link</a></p>
-      <p><a href="#">Link</a></p>
-      <p><a href="#">Link</a></p>
-      -->
-    </div>
     <div class="col-sm-10 text-left"> 
       <iframe id="Iframe" src="readme.html" width=100% height=95% ></iframe> 
       <!--
@@ -232,7 +198,7 @@
 </div>
 
 <footer class="container-fluid text-center">
-  <p>wBuild by <a href="mailto:wachutka@in.tum.de">Leonhard Wachutka</a></p>
+  <p>GENOMITexplorer <a href="sarah.louise.stenton.tum.de">Sarah Louise Stenton</a></p>
 </footer>
 
 </body>
