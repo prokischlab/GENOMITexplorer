@@ -5,7 +5,7 @@ output: html_document
 
 **<a href="https://prokischlab.github.io/GENOMITexplorer/" target="_blank">GENOMITexplorer</a>** is an open access online resource created as part of the study "Diagnosing pediatric mitochondrial disease by exome sequencing: lessons from 2,000 suspected cases" by Stenton et al., (in submission) led by Dr. Holger Prokisch at the Technical University of Munich. It is the result of an international collaboration initiated by the European Network for Mitochondrial Diseases (GENOMIT).
 
-**<a href="https://genomit.eu" target="_blank">GENOMIT</a>** is an E-Rare funded network of partners at established national hubs for the biochemical and genetic diagnosis and care of patients with mitochondriopathies acting in close collaboration with mitochondrial disease patient organizations to improve the diagnosis and care of mitochondrial disease patients.
+**<a href="https://genomit.eu" target="_blank">GENOMIT</a>** is an E-Rare funded network of partners at established national hubs for the biochemical diagnosis,genetic diagnosis, and care of patients with mitochondriopathies acting in close collaboration with mitochondrial disease patient organizations to improve the diagnosis and care of mitochondrial disease patients.
 
 **All clinicians and researchers contributing data to, or involved in the creation of, GENOMITexplorer are acknowledged <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_all_contributors_contributors.html" target="_blank">here</a>.**
 
