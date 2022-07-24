@@ -17,7 +17,7 @@ Variants are listed with their respective predicted function, heteroplasmy level
 
 **2) Information on HPO-gene associations, on the <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_HPO_associations_patient_level_patient_level.html" target="_blank">patient-level</a> (>7,500 patients) and <a href="https://prokischlab.github.io/GENOMITexplorer/#Scripts_HPO_associations_gene_level_all_genes_summary.html" target="_blank">gene-level</a> (>450 genes).**
 
-HPO-gene association are provided for all patients included in the exome study (>2,000) in addition to molecularly diagnosed patients from mitochondrial disease registries (mitoNET and Besta, >1,000), from the Beijing Leigh Group Project (>200), and from literature reports (>4,500).
+HPO-gene association are provided for all patients included in the exome study (>2,000) in addition to molecularly diagnosed patients from mitochondrial disease registries (mitoNET and Besta, >1,000), from the Beijing Leigh Group Project (>200), and from literature reports (>4,500). For mtDNA encoded diagnoses, associations are provided on the variant level.
 
 The most discriminating phenotypes by molecular diagnosis can be explored for all genes with ≥5 reported patients carrying “pathogenic” and “likely pathogenic” variants.
 
